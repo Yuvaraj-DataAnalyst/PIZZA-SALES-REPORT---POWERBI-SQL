@@ -12,11 +12,11 @@ The goal of this project is to analyze pizza sales performance and uncover key b
 
 🔍 My Process:
 ➡️ Initial Data Understanding – Explored dataset in Excel to review fields, values & data types.
- ➡️ Data Preparation in SQL – Loaded the dataset into SQL Server, performed Exploratory Data Analysis (EDA), and identified:
+➡️ Data Preparation in SQL – Loaded the dataset into SQL Server, performed Exploratory Data Analysis (EDA), and identified:
  🔹 Top & Bottom 5 Pizzas
  🔹 Best & Worst Selling Items
  🔹 Key KPIs for business performance
- ➡️ Dashboard Creation in Power BI – Designed an interactive & visually appealing report.
+➡️ Dashboard Creation in Power BI – Designed an interactive & visually appealing report.
 
 📊 Key Insights:
 📌 Peak Sales Periods: Weekends (Friday & Saturday) & months (July & January).
