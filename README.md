@@ -1,6 +1,6 @@
-🚀 Pizza Sales Analysis Dashboard - Power BI + SQL 🍕📊
+# 🚀 Pizza Sales Analysis Dashboard - Power BI + SQL 🍕📊
 
-Analyzing sales is crucial for any business! In this project, I built an interactive Power BI dashboard to uncover key insights into pizza sales performance, customer preferences, and revenue trends using SQL & DAX.
+#### Analyzing sales is crucial for any business! In this project, I built an interactive Power BI dashboard to uncover key insights into pizza sales performance, customer preferences, and revenue trends using SQL & DAX.
 
 🎯 Project Objective:
 The goal of this project is to analyze pizza sales performance and uncover key business insights such as revenue trends, customer preferences, and best-selling items. The dashboard provides a dynamic, data-driven solution for decision-making in a retail food business.
