@@ -1,41 +1,91 @@
-# 🚀 Pizza Sales Analysis Dashboard - Power BI + SQL 🍕📊
+# 📈 Pizza Sales Analysis Dashboard – Power BI Project
 
-#### Analyzing sales is crucial for any business! In this project, I built an interactive Power BI dashboard to uncover key insights into pizza sales performance, customer preferences, and revenue trends using SQL & DAX.
+**Transforming raw data into insights that drive business growth.**
 
-🎯 Project Objective:
-The goal of this project is to analyze pizza sales performance and uncover key business insights such as revenue trends, customer preferences, and best-selling items. The dashboard provides a dynamic, data-driven solution for decision-making in a retail food business.
+---
 
-🛠 Tech Stack Used:
- ✔️ SQL – Data extraction, cleaning, and transformation
- ✔️ Power BI – Dashboard development & data visualization
- ✔️ DAX (Data Analysis Expressions) – Custom measures for deeper insights
+## 🎯 Project Objective
 
-🔍 My Process:
-➡️ Initial Data Understanding – Explored dataset in Excel to review fields, values & data types.
-➡️ Data Preparation in SQL – Loaded the dataset into SQL Server, performed Exploratory Data Analysis (EDA), and identified:
- 🔹 Top & Bottom 5 Pizzas
- 🔹 Best & Worst Selling Items
- 🔹 Key KPIs for business performance
-➡️ Dashboard Creation in Power BI – Designed an interactive & visually appealing report.
+This project focuses on analyzing pizza sales data to uncover key business insights such as revenue trends, customer preferences, and top-performing products. The result is a fully interactive **Power BI dashboard** that empowers data-driven decision-making in the **retail food industry**.
 
-📊 Key Insights:
-📌 Peak Sales Periods: Weekends (Friday & Saturday) & months (July & January).
- 📌 Revenue & Orders Analysis: $817.86K total revenue & 21,350 total orders.
- 📌 Top-Selling Pizzas:
-Highest Revenue: Thai Chicken Pizza
-Most Sold: Classic Deluxe Pizza
- 📌 Least-Selling Pizza: Brie Carre had the lowest sales.
- 📌 Category Performance: Classic & Large-sized pizzas drive the highest revenue.
+> 📌 **Business Impact:** This dashboard helps stakeholders understand peak sales periods, identify top-selling items, and explore product performance across categories—crucial insights for improving operations, marketing, and inventory decisions.
 
-🚀 Check out my live Power BI dashboard here:🔗 https://lnkd.in/g-Mq75NS
+---
 
-🔥 Key Learnings & Takeaways:
-✅ Enhanced my SQL query writing skills for advanced data analysis.
-✅ Improved my data visualization capabilities with Power BI.
-✅ Created custom DAX measures to calculate KPIs 
-✅ Learned to handle large datasets efficiently.
-✅ Developed a better understanding of business processes & decision-making.
+## 🛠 Tech Stack
 
- 🚀 Transforming raw data into insights that drive business growth!
+- **SQL** – Data extraction, cleaning, and transformation
+- **Power BI** – Interactive dashboard design and data visualization
+- **DAX** – Custom measures for KPI calculation and deeper analytical insights
 
-Would love to hear your thoughts—feedback & collaboration are always welcome! Let’s connect! 😊
+---
+
+## 🔍 Workflow & Process
+
+1. **Initial Data Understanding**  
+   Explored the raw dataset using Excel to understand fields, data types, and distributions.
+
+2. **Data Preparation (SQL Server)**  
+   - Performed **exploratory data analysis (EDA)**
+   - Identified key performance indicators (KPIs)
+   - Extracted insights on:
+     - ✅ Top & bottom 5 pizzas
+     - ✅ Best & worst selling items
+     - ✅ Revenue & order trends
+
+3. **Dashboard Development (Power BI)**  
+   Created a **clean, interactive, and insight-rich dashboard** using custom visuals and DAX measures.
+
+---
+
+## 📊 Key Business Insights
+
+- **📆 Peak Sales Periods:**  
+  Highest sales on **weekends (Friday & Saturday)** and in **July and January**
+
+- **💰 Revenue Performance:**  
+  - Total Revenue: **$817.86K**  
+  - Total Orders: **21,350**
+
+- **🍕 Product Insights:**  
+  - Most Revenue: **Thai Chicken Pizza**  
+  - Most Sold: **Classic Deluxe Pizza**  
+  - Least Sold: **Brie Carre Pizza**
+
+- **📦 Category Performance:**  
+  - **Classic** and **Large-sized** pizzas generate the highest revenue
+
+---
+
+## 📌 Live Dashboard
+
+🔗 [**View the Power BI Report**](https://lnkd.in/g-Mq75NS) – Explore the full dashboard and interact with real business metrics.
+
+---
+
+## 🔥 Key Learnings
+
+- Advanced SQL for data analysis and cleaning
+- Efficient handling of large datasets
+- Dashboard storytelling and UI/UX best practices in Power BI
+- DAX for creating business-driven KPIs
+- Stronger understanding of real-world business intelligence processes
+
+---
+
+## 🤝 Let’s Connect!
+
+I’m always open to feedback, collaboration, or new opportunities in **data analytics** and **business intelligence**.
+
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/yuvarajmanalyst)  
+💼 [View my Portfolio](#) *(optional if you have one)*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+**Thank you for viewing my project!**
