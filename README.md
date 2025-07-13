@@ -81,11 +81,4 @@ I’m always open to feedback, collaboration, or new opportunities in **data ana
 💼 [View my Portfolio](https://linktr.ee/myuvaraj) 
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 **Thank you for viewing my project!**
