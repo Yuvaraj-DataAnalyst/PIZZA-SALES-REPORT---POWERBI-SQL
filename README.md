@@ -78,7 +78,7 @@ This project focuses on analyzing pizza sales data to uncover key business insig
 I’m always open to feedback, collaboration, or new opportunities in **data analytics** and **business intelligence**.
 
 📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/yuvarajmanalyst)  
-💼 [View my Portfolio](#) *(optional if you have one)*
+💼 [View my Portfolio](https://linktr.ee/myuvaraj) *(optional if you have one)*
 
 ---
 
