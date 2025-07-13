@@ -59,7 +59,7 @@ This project focuses on analyzing pizza sales data to uncover key business insig
 
 ## 📌 Live Dashboard
 
-🔗 [**View the Power BI Report**](https://lnkd.in/g-Mq75NS) – Explore the full dashboard and interact with real business metrics.
+🔗 [**View the Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiNWUyMDhlMWMtNzZmMi00NzczLTljNmMtYjkwNTZlYWRmMWM1IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) – Explore the full dashboard and interact with real business metrics.
 
 ---
 
