@@ -11,6 +11,20 @@ This project focuses on analyzing pizza sales data to uncover key business insig
 > 📌 **Business Impact:** This dashboard helps stakeholders understand peak sales periods, identify top-selling items, and explore product performance across categories—crucial insights for improving operations, marketing, and inventory decisions.
 
 ---
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Pizza Sales Dashboard.png" alt="Pizza Sales Dashboard" width="1200"/>
+</p>
+
+> ⚡ *Visually rich, interactive, and insight-driven – a powerful tool for food retail decision-makers.*
+
+## 🧩 Data Model
+
+<p align="center">
+  <img src="Pizza Sales Data Model.png" alt="Power BI Data Model" width="1200"/>
+</p>
+
 
 ## 🛠 Tech Stack
 
